@@ -1,6 +1,4 @@
 # Générateur de mot de passe 
 
 lien du site : 
-
-
-# G-n-rateur-de-mot-de-passe
+        https://zduchevreuil.github.io/G-n-rateur-de-mot-de-passe/
